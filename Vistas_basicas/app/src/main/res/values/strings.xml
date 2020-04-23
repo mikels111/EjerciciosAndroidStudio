@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vistas_basicas</string>
+    <string-array name="SpinnerArray"></string-array>
+</resources>

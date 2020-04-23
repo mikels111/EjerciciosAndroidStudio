@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="articulo" type="id" />
+    <item name="importe" type="id" />
+    <item name="iva" type="id" />
+    <item name="layoutInvisible" type="id" />
+    <item name="resultado" type="id" />
+</resources>

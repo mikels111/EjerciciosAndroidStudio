@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpinnerIdiomas</string>
+    <string-array name="idiomas">
+        <item>Castellano</item>
+        <item>Euskera</item>
+        <item>Inglés</item>
+        <item>Aleman</item>
+        <item>Noruego</item>
+    </string-array>
+</resources>
